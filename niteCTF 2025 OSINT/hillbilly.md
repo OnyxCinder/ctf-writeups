@@ -12,4 +12,6 @@ For this image in the series of geoguessing for Nite CTF I focused on the big mo
 
 ![Challenge solve](https://github.com/0x8366/assets-images/blob/main/hillbillysolve.png?raw=true)
 
+Location [link](https://maps.app.goo.gl/tFjY82jkXgCC3dVV6)
+
 **Flag:** `nite{i_d0nt_w4nna_ol1v3_f0rev3r}`
