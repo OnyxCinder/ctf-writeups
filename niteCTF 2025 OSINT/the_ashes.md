@@ -14,6 +14,7 @@ pointed out the powerlines above and on the map there is a long line where power
 
 ![Solution image](https://github.com/0x8366/assets-images/blob/main/2025-12-13_13-38.png?raw=true)
 
+Location [link](https://maps.app.goo.gl/1P2wPrR9GWtfSg7X8)
 
 **Flag:** `nite{w0ah_th4t_wa5_sl1ghtly_0bscur3}`
 
