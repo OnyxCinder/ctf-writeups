@@ -6,7 +6,7 @@ Willow1124 is planning to meet Ken to enjoy their favorite food. The uploaded fi
 
 Your task is to figure out the email address of the place where they met.
 
-Flag Format: 0xL4ugh{0xL4ugh@gmail.com}
+Flag Format: 0xL4ugh{...}
 
 Author: Zwique
 
