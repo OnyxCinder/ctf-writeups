@@ -18,4 +18,6 @@ Location is within Puzi City Chiayi County, Taiwan
 
 ![Corn location](https://github.com/0x8366/assets-images/blob/main/cornsolve2.png?raw=true)
 
+Location [link](https://maps.app.goo.gl/hEfRQsBAy3fC5HpR6)
+
 **Flag:** `nite{1'v3_b33n_w41t1ng_f0r_y0u_4t_cape_no._7}`
